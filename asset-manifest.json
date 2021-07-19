@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/geolocation-react-js/static/css/main.1ec1a383.chunk.css",
-    "main.js": "/geolocation-react-js/static/js/main.f062f23c.chunk.js",
-    "main.js.map": "/geolocation-react-js/static/js/main.f062f23c.chunk.js.map",
-    "runtime-main.js": "/geolocation-react-js/static/js/runtime-main.84d814a4.js",
-    "runtime-main.js.map": "/geolocation-react-js/static/js/runtime-main.84d814a4.js.map",
-    "static/js/2.95fb5b62.chunk.js": "/geolocation-react-js/static/js/2.95fb5b62.chunk.js",
-    "static/js/2.95fb5b62.chunk.js.map": "/geolocation-react-js/static/js/2.95fb5b62.chunk.js.map",
-    "static/js/3.3e52c50f.chunk.js": "/geolocation-react-js/static/js/3.3e52c50f.chunk.js",
-    "static/js/3.3e52c50f.chunk.js.map": "/geolocation-react-js/static/js/3.3e52c50f.chunk.js.map",
-    "index.html": "/geolocation-react-js/index.html",
-    "static/css/main.1ec1a383.chunk.css.map": "/geolocation-react-js/static/css/main.1ec1a383.chunk.css.map",
-    "static/js/2.95fb5b62.chunk.js.LICENSE.txt": "/geolocation-react-js/static/js/2.95fb5b62.chunk.js.LICENSE.txt",
-    "static/media/digitala.47bbdee2.svg": "/geolocation-react-js/static/media/digitala.47bbdee2.svg"
+    "main.css": "/static/css/main.1ec1a383.chunk.css",
+    "main.js": "/static/js/main.f062f23c.chunk.js",
+    "main.js.map": "/static/js/main.f062f23c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.21ccc6ac.js",
+    "runtime-main.js.map": "/static/js/runtime-main.21ccc6ac.js.map",
+    "static/js/2.95fb5b62.chunk.js": "/static/js/2.95fb5b62.chunk.js",
+    "static/js/2.95fb5b62.chunk.js.map": "/static/js/2.95fb5b62.chunk.js.map",
+    "static/js/3.3e52c50f.chunk.js": "/static/js/3.3e52c50f.chunk.js",
+    "static/js/3.3e52c50f.chunk.js.map": "/static/js/3.3e52c50f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.1ec1a383.chunk.css.map": "/static/css/main.1ec1a383.chunk.css.map",
+    "static/js/2.95fb5b62.chunk.js.LICENSE.txt": "/static/js/2.95fb5b62.chunk.js.LICENSE.txt",
+    "static/media/digitala.47bbdee2.svg": "/static/media/digitala.47bbdee2.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.84d814a4.js",
+    "static/js/runtime-main.21ccc6ac.js",
     "static/js/2.95fb5b62.chunk.js",
     "static/css/main.1ec1a383.chunk.css",
     "static/js/main.f062f23c.chunk.js"
